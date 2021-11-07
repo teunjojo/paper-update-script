@@ -13,7 +13,7 @@ Go to the PaperMC directory and run:
 
  **WaterfallMC**
 
-Go to the PaperWaterfall directory and run:
+Go to the Waterfall directory and run:
 
 `./updateWaterfall.sh`
 
