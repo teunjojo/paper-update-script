@@ -16,3 +16,7 @@ Go to the PaperMC directory and run:
 Go to the PaperWaterfall directory and run:
 
 `./updateWaterfall.sh`
+
+---
+
+You can automate this by adding this to a cronjob or to your start script.
