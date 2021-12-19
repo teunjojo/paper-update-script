@@ -1,6 +1,6 @@
 #!/bin/bash
 project=paper
-version=1.17.1
+version=1.18.1
 build=$(curl -s https://papermc.io/api/v2/projects/$project/versions/$version | jq .builds[-1])
 versionBuild=$version-$build
 
