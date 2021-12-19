@@ -18,5 +18,7 @@ Go to the Waterfall directory and run:
 `./updateWaterfall.sh`
 
 ---
+Dependencies: curl and jq
+---
 
 You can automate this by adding this to a cronjob or to your start script.
