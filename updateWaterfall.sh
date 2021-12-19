@@ -1,6 +1,6 @@
 #!/bin/bash
 project=waterfall
-version=1.17
+version=1.18
 build=$(curl -s https://papermc.io/api/v2/projects/$project/versions/$version | jq .builds[-1])
 versionBuild=$version-$build
 
