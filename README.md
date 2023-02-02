@@ -1,4 +1,4 @@
-# !!!This script is obsolete and will not be updated anymore, try my new script [here](https://files.teunjojo.com/?repo=updateMC)
+# !!!This script is obsolete and will not be updated anymore, try my new script [updateMC](https://github.com/teunjojo/updateMC)
 # Update scripts for PaperMC and WaterfallMC
 Shell script that installs PaperMC and WaterfallMC updates.
 
